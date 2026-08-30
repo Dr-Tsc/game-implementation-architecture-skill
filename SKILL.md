@@ -1,6 +1,6 @@
 ---
 name: game-implementation-architecture
-description: 将大型游戏的正式设计资料逐步反推为适合 Codex 长期、模块化开发的 Implementation Architecture（实现架构）。用于系统识别、模块边界、共享系统、State Ownership（状态所有权）、Dependency Map（依赖地图）、Interface Contracts（接口契约）、运行时状态、流程编排、UI Flow（用户界面流程）、Save System（存档系统）、开发索引和最小上下文设计。适用于游戏设计已经存在，但尚未形成可靠程序实现架构，或现有架构需要检查、修正、扩展时。不要用它自行补充未定义的游戏规则。
+description: Gradually derive an Implementation Architecture suitable for long-term, modular development with Codex from formal large-scale game design documents. Use it for system identification, module boundaries, shared systems, State Ownership, Dependency Maps, Interface Contracts, runtime state, flow orchestration, UI Flow, Save System design, development indexing, and minimum-context planning. It is intended for projects where the game design already exists but a reliable implementation architecture has not yet been established, or where an existing architecture needs to be reviewed, corrected, or extended. Do not use it to invent game rules that are not defined in the official project documentation.
 ---
 
 # Game Implementation Architecture
